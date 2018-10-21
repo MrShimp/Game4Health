@@ -1,0 +1,15 @@
+﻿<? xml version="1.0" encoding="utf-8"?>
+<dialogues>
+    <dialogue>
+        <role>Stranger</role>
+        <detail>Hello！</detail>
+    </dialogue>
+    <dialogue>
+        <role>Child</role>
+        <detail>He....Hello...</detail>
+    </dialogue>
+    <dialogue>
+        <role>A</role>
+        <detail>Your mom send me to take you home. Come on, let‘s go!</detail>
+    </dialogue>
+</dialogues>
